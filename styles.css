@@ -1,0 +1,42 @@
+body {
+color:aliceblue;
+background:lightpink;
+margin: 0px;
+font-family: "Merriweather", serif;
+}
+
+header{
+border-bottom: solid 2px aliceblue;
+padding: 20px
+color aliceblue
+}
+
+section {
+background: rgb(214, 194, 236)
+
+}
+
+div{
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+    opacity: 0,5;
+}
+img:hover {
+opacity: 1,0;
+border: 5px solid lightblue;
+}
+
+.h2 {
+    color: rgb(196, 104, 196);
+}
